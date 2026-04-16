@@ -1,8 +1,9 @@
-About This Repository
-📚 Covers a wide range of Python topics
-💡 Focused on problem-solving and logic building
-🧠 Includes beginner to intermediate level problems
-🔁 Regularly updated as I solve more challenges
+🐍 About This Repository
+1) Covers a wide range of Python topics
+2) Focused on problem-solving and logic building
+3) Includes beginner to intermediate level problems
+4) Regularly updated as I solve more challenges
+
 🛠️ Topics Covered
 1)Basic Python (loops, conditions, functions)
 2)Data Structures (lists, tuples, sets, dictionaries)
